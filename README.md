@@ -8,6 +8,8 @@ DSA Concepts covered:
 * Arrays
   - Searching (Linear search)
   - Binary Search
+  - Binary Search on 2D Arrays
+  - Sorting Algorithms
 * Stack
 * Queue
    - Circular Queue
